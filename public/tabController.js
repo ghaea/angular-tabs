@@ -3,6 +3,8 @@ angular.module("tabController", [])
 
 
   // Your code goes here
-  
+
+	$scope.view = 'Red' 
+ 
   
 }])

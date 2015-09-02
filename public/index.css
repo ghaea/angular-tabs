@@ -63,17 +63,17 @@ p {
 	display: none;
 }
 
-.red:hover {
+.red.tab-header:hover {
 	color: white;
 	background: red;
 }
 
-.green:hover {
+.green.tab-header:hover {
 	color: white;
 	background: green;
 }
 
-.blue:hover {
+.blue.tab-header:hover {
 	color: white;
 	background: blue;
 }

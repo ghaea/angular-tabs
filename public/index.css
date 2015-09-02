@@ -62,3 +62,18 @@ p {
 .text-container .blue {
 	display: none;
 }
+
+.red:hover {
+	color: white;
+	background: red;
+}
+
+.green:hover {
+	color: white;
+	background: green;
+}
+
+.blue:hover {
+	color: white;
+	background: blue;
+}

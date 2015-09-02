@@ -24,6 +24,7 @@ p {
 	border: solid 1px black;
 	border-right: none;
 	border-bottom: none;
+	cursor: pointer;
 }
 
 .tab-header:last-of-type {
